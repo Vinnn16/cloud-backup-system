@@ -33,7 +33,7 @@ Proyek ini menggunakan layanan berikut:
 
 ---
 
-## 🗺️ Arsitektur Sistem
+## Arsitektur Sistem
 
 Sistem menggunakan arsitektur berbasis cloud dengan alur sebagai berikut:
 
