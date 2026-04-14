@@ -1,18 +1,18 @@
 # ☁️ Cloud Computing Final Project
 
-## 📌 Judul Proyek
+## Judul Proyek
 Perancangan Sistem Backup dan Penyimpanan Data Berbasis Cloud Menggunakan AWS
 
 ---
 
-## 📖 Deskripsi Proyek
+## Deskripsi Proyek
 Proyek ini bertujuan untuk merancang sistem backup dan penyimpanan data berbasis cloud yang memungkinkan pengguna untuk menyimpan dan mengakses data secara online dengan aman dan efisien.
 
 Sistem ini memanfaatkan layanan cloud dari AWS untuk menyediakan infrastruktur yang scalable, reliable, dan mudah diakses dari mana saja.
 
 ---
 
-## 🎯 Tujuan Proyek
+## Tujuan Proyek
 - Merancang sistem penyimpanan dan backup data berbasis cloud  
 - Mengimplementasikan layanan cloud dalam skenario nyata  
 - Meningkatkan keamanan dan ketersediaan data  
@@ -20,7 +20,7 @@ Sistem ini memanfaatkan layanan cloud dari AWS untuk menyediakan infrastruktur y
 
 ---
 
-## ☁️ Layanan Cloud yang Digunakan
+## Layanan Cloud yang Digunakan
 
 Proyek ini menggunakan layanan berikut:
 
@@ -46,7 +46,7 @@ Sistem menggunakan arsitektur berbasis cloud dengan alur sebagai berikut:
 
 ---
 
-## 💰 Estimasi Biaya
+## Estimasi Biaya
 
 Estimasi biaya penggunaan layanan cloud:
 
@@ -62,7 +62,7 @@ Biaya per orang (4 anggota):
 
 ---
 
-## 👥 Tim Pengembang
+## Tim Pengembang
 
 | Nama | Peran |
 |------|------|
@@ -73,7 +73,7 @@ Biaya per orang (4 anggota):
 
 ---
 
-## 📅 Tahapan Pengembangan
+## Tahapan Pengembangan
 
 - Minggu 1: Perencanaan & Arsitektur  
 - Minggu 2: Setup Cloud Environment  
@@ -83,4 +83,4 @@ Biaya per orang (4 anggota):
 
 ---
 
-## 📂 Struktur Repository
+## Struktur Repository
