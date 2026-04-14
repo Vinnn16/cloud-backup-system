@@ -1,4 +1,4 @@
-# ☁️ Cloud Computing Final Project
+# Cloud Computing Final Project
 
 ## Judul Proyek
 Perancangan Sistem Backup dan Penyimpanan Data Berbasis Cloud Menggunakan AWS
